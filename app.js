@@ -3,17 +3,17 @@
 // Application data
 const appData = {
   "driver": {
-    "name": "Carlos Silva",
+    "name": "Luis Bracale",
     "rating": 4.8,
     "totalRides": 1234,
     "phone": "(11) 98765-4321",
-    "email": "carlos.silva@email.com",
+    "email": "luis.bracale@email.com",
     "license": "AB123456789",
     "vehicle": {
-      "model": "Toyota Corolla",
+      "model": "Impala 1967",
       "plate": "ABC-1234",
       "year": 2020,
-      "color": "Prata"
+      "color": "Preto"
     }
   },
   "stats": {
@@ -28,8 +28,8 @@ const appData = {
   "availableRides": [
     {
       "id": "R001",
-      "pickup": "Shopping Center Norte",
-      "destination": "Aeroporto Guarulhos",
+      "pickup": "Avenida 4, 1381",
+      "destination": "Rua 1, 234",
       "distance": "18.5 km",
       "estimatedTime": "25 min",
       "fare": 45.80,
@@ -37,8 +37,8 @@ const appData = {
     },
     {
       "id": "R002", 
-      "pickup": "Estação da Sé",
-      "destination": "Vila Madalena",
+      "pickup": "Supermercado Paulista",
+      "destination": "Avenida T, 900",
       "distance": "12.3 km",
       "estimatedTime": "18 min",
       "fare": 28.40,
